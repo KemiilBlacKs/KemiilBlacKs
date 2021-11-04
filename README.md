@@ -16,29 +16,29 @@
 
 ### Connect with me:
 
-[<img alt="KemiilBlacKs" src="https://img.icons8.com/color/26/000000/globe--v1.png"/>][website]
-[<img alt="KemiilBlacKs | Linkedin" src="https://img.icons8.com/color/26/000000/linkedin.png"/>][linkedin]
+[<img align="left" alt="KemiilBlacKs" src="https://img.icons8.com/color/26/000000/globe--v1.png"/>][website]
+[<img align="left" alt="KemiilBlacKs | Linkedin" src="https://img.icons8.com/color/26/000000/linkedin.png"/>][linkedin]
 
 <br />
 <br />
 
 ### Languages and Tools:
 
-<img src="https://img.icons8.com/color/26/000000/notion.png"/>
-<img src="https://img.icons8.com/fluency/26/000000/visual-studio-code-2019.png"/>
-<img src="https://img.icons8.com/dusk/26/000000/postman-api.png"/>
-<img src="https://img.icons8.com/color/26/000000/html-5.png"/>
-<img src="https://img.icons8.com/color/26/000000/css3.png"/>
-<img src="https://img.icons8.com/color/26/000000/javascript--v1.png"/>
-<img src="https://img.icons8.com/color/26/000000/golang.png"/>
-<img src="https://img.icons8.com/offices/26/000000/php-logo.png"/>
-<img src="https://img.icons8.com/color/26/000000/vue-js.png"/>
-<img src="https://img.icons8.com/color/26/000000/wordpress.png"/>
-<img src="https://img.icons8.com/color/26/000000/mysql-logo.png"/>
-<img src="https://img.icons8.com/color/26/000000/mongodb.png"/>
-<img src="https://img.icons8.com/color/26/000000/sass.png"/>
-<img src="https://img.icons8.com/color/26/000000/graphql.png"/>
-<img src="https://img.icons8.com/ios-filled/26/000000/github.png"/>
+<img align="left" src="https://img.icons8.com/color/26/000000/notion.png"/>
+<img align="left" src="https://img.icons8.com/fluency/26/000000/visual-studio-code-2019.png"/>
+<img align="left" src="https://img.icons8.com/dusk/26/000000/postman-api.png"/>
+<img align="left" src="https://img.icons8.com/color/26/000000/html-5.png"/>
+<img align="left" src="https://img.icons8.com/color/26/000000/css3.png"/>
+<img align="left" src="https://img.icons8.com/color/26/000000/javascript--v1.png"/>
+<img align="left" src="https://img.icons8.com/color/26/000000/golang.png"/>
+<img align="left" src="https://img.icons8.com/offices/26/000000/php-logo.png"/>
+<img align="left" src="https://img.icons8.com/color/26/000000/vue-js.png"/>
+<img align="left" src="https://img.icons8.com/color/26/000000/wordpress.png"/>
+<img align="left" src="https://img.icons8.com/color/26/000000/mysql-logo.png"/>
+<img align="left" src="https://img.icons8.com/color/26/000000/mongodb.png"/>
+<img align="left" src="https://img.icons8.com/color/26/000000/sass.png"/>
+<img align="left" src="https://img.icons8.com/color/26/000000/graphql.png"/>
+<img align="left" src="https://img.icons8.com/ios-filled/26/000000/github.png"/>
 
 <br />
 <br />
