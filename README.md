@@ -2,8 +2,6 @@
 
 ## I am a freelance software development engineer with over 5 years of experience!
 
----
-
 - 🔭 I am currently working on a new project that I would like to develop in Mayotte
 - 🌱 I’m currently learning everything 🤓
 - 👯 I’m looking to collaborate with other content creators
@@ -11,15 +9,11 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I like photography, music and everything that allows me to be creative
 
-<br />
-<br />
-
 ### Connect with me:
 
 [<img align="left" alt="KemiilBlacKs" src="https://img.icons8.com/color/26/000000/globe--v1.png"/>][website]
 [<img align="left" alt="KemiilBlacKs | Linkedin" src="https://img.icons8.com/color/26/000000/linkedin.png"/>][linkedin]
 
-<br />
 <br />
 
 ### Languages and Tools:
@@ -40,7 +34,6 @@
 <img align="left" src="https://img.icons8.com/color/26/000000/graphql.png"/>
 <img align="left" src="https://img.icons8.com/ios-filled/26/000000/github.png"/>
 
-<br />
 <br />
 
 ---
