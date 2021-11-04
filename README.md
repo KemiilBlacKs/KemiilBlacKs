@@ -38,7 +38,9 @@
 
 ---
 
-[![KemiilBlacK's GitHub stats](https://github-readme-stats.vercel.app/api?username=kemiilblacks&show_icons=true&hide_border=true&count_private=true&custom_title=Stats)](https://github.com/kemiilblacks/github-readme-stats)
+<a href="https://github.com/KemiilBlacKs/KemiilBlacKs#readme">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kemiilblacks&show_icons=true&hide_border=true&count_private=true&custom_title=Stats"/>
+</a>
 
 <br />
 <br />
