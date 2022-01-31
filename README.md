@@ -1,13 +1,13 @@
-### Hi there, I'm Kemil aka [KemiilBlacKs][website] 👋
+### Hi there 👋, I'm Kemil aka [KemiilBlacKs][website]
 
 ## I am a freelance software development engineer with over 5 years of experience!
 
-- 🔭 I am currently working on a new project that I would like to develop in Mayotte
-- 🌱 I’m currently learning everything 🤓
-- 👯 I’m looking to collaborate with other content creators
-- 💬 If you have projects that you want to realize, you can contact me, I will be happy to answer you
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I like photography, music and everything that allows me to be creative
+-   🔭 I am currently working on a new project that I would like to develop in Mayotte
+-   🌱 I’m currently learning everything 🤓
+-   👯 I’m looking to collaborate with other content creators
+-   💬 If you have projects that you want to realize, you can contact me, I will be happy to answer you
+-   🥅 2022 Goals: Contribute more to Open Source projects
+-   ⚡ Fun fact: I like photography, music and everything that allows me to be creative
 
 ### Connect with me:
 
