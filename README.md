@@ -1,18 +1,18 @@
 ### Hi there 👋, I'm Kemil aka [KemiilBlacKs][website]
 
-## I am a freelance software development engineer with over 6 years of experience!
+## I am a freelance software development engineer with over 7 years of experience!
 
 -   🔭 I am currently working on a new project that I would like to develop in Mayotte
 -   🌱 I’m currently learning everything 🤓
 -   👯 I’m looking to collaborate with other content creators
 -   💬 If you have projects that you want to realize, you can contact me, I will be happy to answer you
--   🥅 2022 Goals: Contribute more to Open Source projects
+-   🥅 2023 Goals: Contribute more to Open Source projects
 -   ⚡ Fun fact: I like photography, music and everything that allows me to be creative
 
 ### Connect with me:
 
-[<img align="left" alt="KemiilBlacKs" src="https://img.icons8.com/color/26/000000/globe--v1.png"/>][website]
-[<img align="left" alt="KemiilBlacKs | Linkedin" src="https://img.icons8.com/color/26/000000/linkedin.png"/>][linkedin]
+[<img align="left" alt="Kemil Dahalani" src="https://img.icons8.com/color/26/000000/globe--v1.png"/>][website]
+[<img align="left" alt="Kemil Dahalani | Linkedin" src="https://img.icons8.com/color/26/000000/linkedin.png"/>][linkedin]
 
 <br />
 
@@ -38,12 +38,12 @@
 
 ---
 
-<a href="https://github.com/KemiilBlacKs/KemiilBlacKs#readme">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kemiilblacks&show_icons=true&hide_border=true&count_private=true&custom_title=Stats"/>
+<a href="https://github.com/KemiilBlacKs/KemiilBlacKs">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=kemiilblacks&show_icons=true&hide_border=true&count_private=true&custom_title=Stats&theme=vue-dark"/>
 </a>
 
 <br />
 <br />
 
-[website]: https://kemiilblacks.fr
-[linkedin]: https://www.linkedin.com/in/mdahalani
+[website]: https://kemildahalani.fr
+[linkedin]: https://www.linkedin.com/in/kemildahalani/
