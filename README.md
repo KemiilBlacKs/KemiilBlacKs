@@ -38,9 +38,9 @@
 
 ---
 
-<a href="https://github.com/KemiilBlacKs/KemiilBlacKs">
+<!--a href="https://github.com/KemiilBlacKs/KemiilBlacKs">
     <img align="center" src="https://github-readme-stats.vercel.app/api/?username=kemiilblacks&show_icons=true&hide_border=true&count_private=true&custom_title=Stats&theme=vue-dark"/>
-</a>
+</!--a>
 
 <br />
 <br />
