@@ -40,8 +40,6 @@
 <img align="left" src="https://img.icons8.com/color/26/000000/graphql.png"/>
 <img align="left" src="https://img.icons8.com/ios-filled/26/000000/github.png"/>
 
-<br />
-
 ---
 
 <!--a href="https://github.com/KemiilBlacKs/KemiilBlacKs">
