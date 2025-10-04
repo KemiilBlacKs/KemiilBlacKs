@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Kemil aka [KemiilBlacKs][website]
 
-## I am a freelance software development engineer with over 8 years of experience!
+#### I am a consultant in software engineering based in France, with 9 years of experience!
 
 -   🔭 I am currently working on a new project that I would like to develop in Mayotte
 -   🌱 I’m currently learning everything 🤓
