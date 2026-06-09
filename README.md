@@ -1,54 +1,74 @@
-### Hi there 👋, I'm Kemil aka [KemiilBlacKs][website]
+# Kemil Dahalani
 
-#### I am a consultant in software engineering based in France, with 9 years of experience!
+Software engineering consultant based in France, with 10 years of experience.
 
--   🔭 I am currently working on a new project that I would like to develop in Mayotte
--   🌱 I’m currently learning everything 🤓
--   👯 I’m looking to collaborate with other content creators
--   💬 If you have projects that you want to realize, you can contact me, I will be happy to answer you
--   ⚡ Fun fact: I like photography, music and everything that allows me to be creative
+I design and build useful, reliable, and maintainable digital products. I work from early product clarification to
+launch, combining product strategy, UX/UI, full-stack engineering, performance, quality, and long-term support.
 
-### Connect with me:
+## What I Do
 
-[<img align="left" alt="Kemil Dahalani" src="https://img.icons8.com/color/26/000000/globe--v1.png"/>][website]
-[<img align="left" alt="Kemil Dahalani | Linkedin" src="https://img.icons8.com/color/26/000000/linkedin.png"/>][linkedin]
+- **Product consulting**: scoping, prioritization, roadmap definition, and measurable success criteria.
+- **UX/UI**: clear user flows, responsive interfaces, and experiences designed around real usage.
+- **Full-stack development**: robust web, mobile, and digital service development.
+- **Quality & performance**: maintainable code, optimization, security, backups, and post-launch monitoring.
+- **Growth & analytics**: SEO, analytics, email marketing, and data-informed iteration.
 
-<br />
+## Skills
 
-### Languages and Tools:
+### Product & Design
 
-<img align="left" src="https://img.icons8.com/color/26/000000/notion.png"/>
-<img align="left" src="https://img.icons8.com/fluency/26/000000/visual-studio-code-2019.png"/>
-<img align="left" src="https://img.icons8.com/dusk/26/000000/postman-api.png"/>
-<img align="left" src="https://img.icons8.com/color/26/000000/html-5.png"/>
-<img align="left" src="https://img.icons8.com/color/26/000000/css3.png"/>
-<img align="left" src="https://img.icons8.com/color/26/000000/javascript--v1.png"/>
-<img align="left" src="https://img.icons8.com/color/26/000000/golang.png"/>
-<img align="left" src="https://img.icons8.com/offices/26/000000/php-logo.png"/>
-<img align="left" src="https://img.icons8.com/color/26/000000/c-sharp-logo.png"/>
-<img align="left" src="https://img.icons8.com/color/26/000000/net-framework.png"/>
-<img align="left" src="https://img.icons8.com/color/26/000000/vue-js.png"/>
-<img align="left" src="https://img.icons8.com/color/26/000000/nuxt-jc.png"/>
-<img align="left" src="https://img.icons8.com/color/26/000000/flutter.png"/>
-<img align="left" src="https://img.icons8.com/color/26/000000/dart.png"/>
-<img align="left" src="https://img.icons8.com/color/26/000000/wordpress.png"/>
-<img align="left" src="https://img.icons8.com/color/26/000000/mysql-logo.png"/>
-<img align="left" src="https://img.icons8.com/color/26/000000/mongodb.png"/>
-<img align="left" src="https://img.icons8.com/color/26/000000/redis.png"/>
-<img align="left" src="https://img.icons8.com/color/26/000000/firebase.png"/>
-<img align="left" src="https://img.icons8.com/color/26/000000/sass.png"/>
-<img align="left" src="https://img.icons8.com/color/26/000000/graphql.png"/>
-<img align="left" src="https://img.icons8.com/ios-filled/26/000000/github.png"/>
+![Product](https://img.shields.io/badge/Product-111827?style=for-the-badge)
+![UX](https://img.shields.io/badge/UX-111827?style=for-the-badge)
+![UI](https://img.shields.io/badge/UI-111827?style=for-the-badge)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-111827?style=for-the-badge)
+![Visual Identity](https://img.shields.io/badge/Visual%20Identity-111827?style=for-the-badge)
 
----
+### Frontend & Mobile
 
-<!--a href="https://github.com/KemiilBlacKs/KemiilBlacKs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=kemiilblacks&show_icons=true&hide_border=true&count_private=true&custom_title=Stats&theme=vue-dark"/>
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-</a-->
+### Backend & Services
 
-<br />
-<br />
+![REST API](https://img.shields.io/badge/REST%20API-111827?style=for-the-badge)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![OpenAI API](assets/badges/openai-api.svg)
+![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
+### Data, Cloud & Tools
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![Memcached](assets/badges/memcached.svg)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![AWS S3](assets/badges/aws-s3.svg)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![GitHub CI](https://img.shields.io/badge/GitHub%20CI-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-111827?style=for-the-badge&logo=notion&logoColor=white)
+
+## Approach
+
+I favor short delivery cycles: clarify the goal, build a useful first version, measure real usage, then iterate
+pragmatically. The objective stays the same at every step: deliver a coherent, efficient, and durable solution.
+
+## Contact
+
+- Website: [kemildahalani.fr][website]
+- LinkedIn: [Kemil Dahalani][linkedin]
 
 [website]: https://kemildahalani.fr
 [linkedin]: https://www.linkedin.com/in/kemildahalani/

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="89.5" height="28" role="img" aria-label="AWS S3">
+  <title>AWS S3</title>
+  <desc>Badge for AWS S3 with a storage bucket icon.</desc>
+  <rect width="89.5" height="28" fill="#569A31"/>
+  <g transform="translate(8 5)" fill="none" stroke="#fff" stroke-width="1.7" stroke-linejoin="round">
+    <path d="M3 5.5 10 2l7 3.5v8L10 17l-7-3.5z"/>
+    <path d="M3 5.5 10 9l7-3.5"/>
+    <path d="M10 9v8"/>
+  </g>
+  <text x="32" y="18" fill="#fff" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="10" font-weight="700" letter-spacing="2">AWS S3</text>
+</svg>
