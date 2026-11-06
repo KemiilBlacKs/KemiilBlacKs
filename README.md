@@ -15,15 +15,6 @@ engineering, and long-term support.
 - **Quality & performance**: maintainable code, optimization, security, backups, and post-launch monitoring.
 - **Growth & analytics**: SEO, analytics, email marketing, and data-informed iteration.
 
-## Selected Work
-
-- **[Usafiri][usafiri]**: mobility app for Mayotte combining carpooling, public transport, and community traffic
-  reports. I lead it end to end, from product vision and design to Flutter and Supabase. Currently in beta.
-- **[VisionAI][visionai]**: platform redesign from WordPress to Nuxt, with a new visual identity and an equipment rental
-  flow featuring live estimates and online payment.
-- **IT audits**: on-site audits of three small businesses in Mayotte in 2026, each delivered with a target architecture
-  and a costed roadmap.
-
 ## Skills
 
 ### Product & Design
@@ -88,5 +79,3 @@ pragmatically. The objective stays the same at every step: deliver a coherent, e
 
 [website]: https://kemildahalani.fr
 [linkedin]: https://www.linkedin.com/in/kemildahalani/
-[usafiri]: https://usafiri.app
-[visionai]: https://visionai.yt
