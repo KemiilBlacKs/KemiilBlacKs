@@ -1,17 +1,28 @@
 # Kemil Dahalani
 
-Software engineering consultant based in France, with 10 years of experience.
+Information systems architect and software engineering consultant based in Mayotte, France, with 10 years of experience.
 
-I design and build useful, reliable, and maintainable digital products. I work from early product clarification to
-launch, combining product strategy, UX/UI, full-stack engineering, performance, quality, and long-term support.
+I turn complex needs into simple, reliable web and mobile products for businesses in Mayotte and across France. I stay
+your single point of contact from scoping to production, combining IT architecture, product strategy, UX/UI, full-stack
+engineering, and long-term support.
 
 ## What I Do
 
+- **Information systems architecture**: on-site audits, target architecture, sizing, and costed roadmaps.
 - **Product consulting**: scoping, prioritization, roadmap definition, and measurable success criteria.
 - **UX/UI**: clear user flows, responsive interfaces, and experiences designed around real usage.
 - **Full-stack development**: robust web, mobile, and digital service development.
 - **Quality & performance**: maintainable code, optimization, security, backups, and post-launch monitoring.
 - **Growth & analytics**: SEO, analytics, email marketing, and data-informed iteration.
+
+## Selected Work
+
+- **[Usafiri][usafiri]**: mobility app for Mayotte combining carpooling, public transport, and community traffic
+  reports. I lead it end to end, from product vision and design to Flutter and Supabase. Currently in beta.
+- **[VisionAI][visionai]**: platform redesign from WordPress to Nuxt, with a new visual identity and an equipment rental
+  flow featuring live estimates and online payment.
+- **IT audits**: on-site audits of three small businesses in Mayotte in 2026, each delivered with a target architecture
+  and a costed roadmap.
 
 ## Skills
 
@@ -37,11 +48,14 @@ launch, combining product strategy, UX/UI, full-stack engineering, performance, 
 
 ![REST API](https://img.shields.io/badge/REST%20API-111827?style=for-the-badge)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![OpenAI API](assets/badges/openai-api.svg)
 ![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
@@ -56,6 +70,8 @@ launch, combining product strategy, UX/UI, full-stack engineering, performance, 
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![AWS S3](assets/badges/aws-s3.svg)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![GitHub CI](https://img.shields.io/badge/GitHub%20CI-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-111827?style=for-the-badge&logo=notion&logoColor=white)
@@ -72,3 +88,5 @@ pragmatically. The objective stays the same at every step: deliver a coherent, e
 
 [website]: https://kemildahalani.fr
 [linkedin]: https://www.linkedin.com/in/kemildahalani/
+[usafiri]: https://usafiri.app
+[visionai]: https://visionai.yt
